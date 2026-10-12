@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/pytest-benchmark/commit/07d519672687402e6c3fac1a543fbefd810d1e5b",
       "git:hexsha": "07d519672687402e6c3fac1a543fbefd810d1e5b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v5.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.3.0",
+      "repolex:parsedAt": "2026-10-12T22:59:42.207392+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/pytest-benchmark/commit/4523a905d11d17c7b4b728f4e31af7bb50b64f77",

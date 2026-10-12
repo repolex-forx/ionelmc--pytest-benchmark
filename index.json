@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "pytest-benchmark",
+  "versions": [
+    {
+      "commit": "07d519672687402e6c3fac1a543fbefd810d1e5b",
+      "tag": "v5.3.0",
+      "parsed_at": "2026-10-12T22:59:42.312740+00:00"
+    }
+  ]
+}

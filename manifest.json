@@ -353,7 +353,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/jinja2/environment.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/b857483dd8e8a875f3aa040bd0054847ad657291/chunk-001.nq.gz",
+      "dep": "dep/b857483dd8e8a875f3aa040bd0054847ad657291.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
